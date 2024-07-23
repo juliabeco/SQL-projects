@@ -16,3 +16,8 @@
   [LINK to project: ](https://github.com/juliabeco/SQL-projects/blob/main/companies.sql) 
   Description:  Created a database containing financial data of companies, including stock prices, revenues, and expenses. This project features SQL queries for trend analysis in stock prices and revenues over time, 
   profitability analysis through financial indicators like profit margins, and performance comparisons among companies.
+
+
+ **Financial Transactions Database**:
+[ Link to project:](https://github.com/juliabeco/SQL-projects/blob/main/creditcompany.sql) 
+ Description: Designed a database to manage clients, products, transactions, and payments using SQL, with queries to analyze transaction details, calculate total payments, and categorize clients based on transaction history.
