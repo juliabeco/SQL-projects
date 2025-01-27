@@ -262,6 +262,10 @@ SELECT * FROM countries;
 -- Use COUNT to count the number of unique country names.
 SELECT COUNT(name) AS "TOTAL COUNTRIES" FROM countries;
 
+-- Double check with DISTINCT 
+SELECT COUNT(DISTINCT name) "TOTAL COUNTRIES" FROM countries;
+
+
 /* Query 3: Which countries have "AY" in their name? */
 -- Use LIKE with a pattern to filter rows where the name contains "AY".
 SELECT name, fertility_rate
